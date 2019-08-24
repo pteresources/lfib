@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="8AB27583-C9D1-458B-9241-194CBD40DBEE" version="0">
+	<info>
+		<title>LFIB quiz</title>
+		<description/>
+	</info>
+	<files index="id26" thumbnail="id22" totalSize="3720034">
+		<file id="id0">data/apple-touch-icon.png</file>
+		<file id="id1">data/audios/snd-17efa5dc86cf926e069635ff2b6cf1a554cda3d4.mp3</file>
+		<file id="id2">data/audios/snd-181dbb8820cc3948ce69d9dc419376c8c9523eec.mp3</file>
+		<file id="id3">data/audios/snd-30b48382706050570937ac853862ae148accdd50.mp3</file>
+		<file id="id4">data/audios/snd-3e8f223b572bbb06bbc35f17c8ca8455ee8a1af3.mp3</file>
+		<file id="id5">data/audios/snd-43501e39377bfba1075760b41a3d2d95c9b93542.mp3</file>
+		<file id="id6">data/audios/snd-58b576e411f66d9683881634272ab8c44aef3311.mp3</file>
+		<file id="id7">data/audios/snd-9632ffe09e9e4855af9be1f6bdfda764dc4a55e8.mp3</file>
+		<file id="id8">data/audios/snd-acb134a3639c32fb246cb7e6718a358add4e7eaf.mp3</file>
+		<file id="id9">data/audios/snd-cf8a6731e8ccc0ff7ed82b58ed97eb449de5984f.mp3</file>
+		<file id="id10">data/audios/snd-d31e0f55a93c61e5e7cadcb516aea9536000c86c.mp3</file>
+		<file id="id11">data/audios/snd-fb9b608f5612abd7ce87d0f87e2eb122e0b50b9a.mp3</file>
+		<file id="id12">data/browsersupport.js</file>
+		<file id="id13">data/favicon.ico</file>
+		<file id="id14">data/fonts/fnt0.woff</file>
+		<file id="id15">data/fonts/fnt1.woff</file>
+		<file id="id16">data/fonts/fnt2.woff</file>
+		<file id="id17">data/fonts/fnt3.woff</file>
+		<file id="id18">data/html5-unsupported.html</file>
+		<file id="id19">data/html5.png</file>
+		<file id="id20">data/ismplayer/app_store2x.png</file>
+		<file id="id21">data/ismplayer/play.svg</file>
+		<file id="id22">data/ismplayer/preview.png</file>
+		<file id="id23">data/ismplayer/style.css</file>
+		<file id="id24">data/ismplayer/style_mini.css</file>
+		<file id="id25">data/player.js</file>
+		<file id="id26">index.html</file>
+		<file id="id27">ismplayer.html</file>
+		<file id="id28">preview.png</file>
+	</files>
+</presentation>
+
